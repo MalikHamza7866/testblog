@@ -1,0 +1,33 @@
+{
+  "name": "imanempowerblog3.0",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.8",
+    "@radix-ui/themes": "^2.0.3",
+    "antd": "^5.12.5",
+    "classnames": "^2.5.1",
+    "gql": "^1.1.2",
+    "graphql": "^16.8.1",
+    "graphql-request": "^6.1.0",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-query": "^3.39.3",
+    "react-responsive-carousel": "^3.2.23",
+    "semantic-ui-react": "^2.1.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
